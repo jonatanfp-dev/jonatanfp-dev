@@ -19,5 +19,3 @@ Welcome to my GitHub profile repository. I'm an enthusiast of Linux, programming
 - **X Corp:** [@jonatanfp_](https://twitter.com/jonatanfp_)
 
 Feel free to explore and reach out if you'd like to collaborate or just chat!
-
-This a test
