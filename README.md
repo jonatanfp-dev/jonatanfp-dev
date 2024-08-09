@@ -1,7 +1,3 @@
-<p align="center">
-   <img align="center" width="200" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149680106?v=4" alt="Mi perfil" />
-</p>
-
 # Hello, I'm Jonatan! 👋
 
 Welcome to my GitHub profile repository. I'm an enthusiast of Linux, programming, and game modding. Here's a bit more about me:
