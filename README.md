@@ -15,7 +15,7 @@ Welcome to my GitHub profile repository. I'm an enthusiast of Linux, programming
 ## 📫 Get in Touch
 - **Email:** [info@jonatanfp.net](mailto:info@jonatanfp.net)
 - **Main Instagram:** [@jonatanfp_](https://instagram.com/jonatanfp_)
-- **Instagram Secondary:** [@iamaserver_](https://instagram.com/iamaserver_)
+- **Secondary Instagram:** [@iamaserver_](https://instagram.com/iamaserver_)
 - **X Corp:** [@jonatanfp_](https://twitter.com/jonatanfp_)
 
 Feel free to explore and reach out if you'd like to collaborate or just chat!
